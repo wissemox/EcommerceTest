@@ -1,0 +1,15 @@
+$tr:"transparent";
+.bg-transparent{
+    background-color: $tr;
+}
+.bg-white{
+    background-color: white;
+}
+// Back image url 
+.backgroundImage{
+    background: url('Tshirt.png') no-repeat fixed 100% 100%;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

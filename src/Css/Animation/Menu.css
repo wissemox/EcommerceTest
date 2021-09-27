@@ -1,0 +1,24 @@
+.AnimationHoverNavbar {
+  -webkit-transition: 2s;
+  -webkit-animation: animatio02 0.8s;
+          animation: animatio02 0.8s;
+}
+
+@-webkit-keyframes animatio02 {
+  from {
+    margin-top: -100vh;
+  }
+  to {
+    margin-top: 0px;
+  }
+}
+
+@keyframes animatio02 {
+  from {
+    margin-top: -100vh;
+  }
+  to {
+    margin-top: 0px;
+  }
+}
+/*# sourceMappingURL=Menu.css.map */

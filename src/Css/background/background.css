@@ -1,0 +1,13 @@
+.bg-transparent {
+  background-color: "transparent";
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.backgroundImage {
+  background: url("Tshirt.png") no-repeat fixed 100% 100%;
+  background-size: cover;
+}
+/*# sourceMappingURL=background.css.map */

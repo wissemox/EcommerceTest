@@ -1,0 +1,15 @@
+.AnimationHoverNavbar{
+    -webkit-transition: 2s;
+  
+    animation:animatio02 0.8s;
+}
+
+@keyframes animatio02 {
+    from{
+      margin-top: -100vh;
+    }
+    to{
+      margin-top: 0px;
+    }
+    
+  }
